@@ -5,7 +5,7 @@
 static string server = "127.0.0.1";
 static string user = "root";
 static string password = "123456";
-static string dbname = "chatserver";
+static string dbname = "chat";
 
 // 初始化数据库连接
 MySQL::MySQL()
